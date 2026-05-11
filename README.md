@@ -15,7 +15,9 @@ This project contains manual API testing using Postman on ReqRes API.
 - Response time checks
 
 ## How to Run
-1. Import collection into Postman
-2. Set environment variable:
+
+1. Download the collection file from this repository
+2. Import it into Postman
+3. Set environment variable:
    baseURL = https://reqres.in/api
-3. Run collection via Collection Runner
+4. Run collection using Collection Runner
